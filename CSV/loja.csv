@@ -1,0 +1,6 @@
+﻿loja_id,tipo,nome,responsavel_nome,cidade,estado,ativo
+1,LOJA,Loja Sorocaba Centro,Carlos Silva,Sorocaba,SP,1
+2,LOJA,Loja Itu Centro,Ana Paula Lima,Itu,SP,1
+3,LOJA,Loja São Roque Shopping,Marcos Souza,São Roque,SP,1
+4,LOJA,Loja Votorantim,Fernanda Rocha,Votorantim,SP,1
+5,CD,CD Sorocaba,Ricardo Alves,Sorocaba,SP,1

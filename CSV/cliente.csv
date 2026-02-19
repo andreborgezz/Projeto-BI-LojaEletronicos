@@ -1,0 +1,41 @@
+﻿cliente_id,nome,email,cidade,estado
+1,João Silva,joao@email.com,Sorocaba,SP
+2,Maria Souza,maria@email.com,Itu,SP
+3,Carlos Lima,carlos@email.com,São Roque,SP
+4,Ana Rocha,ana@email.com,Votorantim,SP
+5,Pedro Santos,pedro@email.com,Sorocaba,SP
+6,Lucas Alves,lucas@email.com,Itu,SP
+7,Fernanda Costa,fernanda@email.com,Sorocaba,SP
+8,Juliana Martins,juliana@email.com,São Roque,SP
+9,Bruno Pereira,bruno@email.com,Votorantim,SP
+10,Rafael Gomes,rafael@email.com,Sorocaba,SP
+11,Paula Ribeiro,paula@email.com,Itu,SP
+12,Thiago Nunes,thiago@email.com,Sorocaba,SP
+13,Camila Araujo,camila@email.com,São Roque,SP
+14,Diego Barros,diego@email.com,Sorocaba,SP
+15,Renata Lopes,renata@email.com,Itu,SP
+16,Gustavo Farias,gustavo@email.com,Sorocaba,SP
+17,Daniel Teixeira,daniel@email.com,Votorantim,SP
+18,Patricia Melo,patricia@email.com,Sorocaba,SP
+19,André Cunha,andre@email.com,São Roque,SP
+20,Beatriz Pacheco,bia@email.com,Sorocaba,SP
+21,Felipe Duarte,felipe@email.com,Itu,SP
+22,Natalia Guedes,natalia@email.com,Sorocaba,SP
+23,Leonardo Freitas,leo@email.com,Sorocaba,SP
+24,Mariana Torres,mariana@email.com,Votorantim,SP
+25,Eduardo Batista,edu@email.com,Sorocaba,SP
+26,Aline Moreira,aline@email.com,Itu,SP
+27,Rodrigo Siqueira,rodrigo@email.com,Sorocaba,SP
+28,Vanessa Prado,vanessa@email.com,São Roque,SP
+29,Igor Macedo,igor@email.com,Sorocaba,SP
+30,Tatiane Lopes,tatiane@email.com,Votorantim,SP
+31,Marcio Ferreira,marcio@email.com,Sorocaba,SP
+32,Livia Campos,livia@email.com,Itu,SP
+33,Henrique Dias,henrique@email.com,Sorocaba,SP
+34,Priscila Andrade,pri@email.com,São Roque,SP
+35,Caio Almeida,caio@email.com,Votorantim,SP
+36,Isabela Ribeiro,isa@email.com,Sorocaba,SP
+37,Vinicius Moura,vini@email.com,Itu,SP
+38,Sabrina Cardoso,sabrina@email.com,Sorocaba,SP
+39,Otavio Vieira,otavio@email.com,São Roque,SP
+40,Gabriela Pinto,gabi@email.com,Votorantim,SP
